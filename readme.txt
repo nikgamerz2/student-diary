@@ -4,7 +4,7 @@ hey, if you want to use this program-
           open terminal and run the .sh file
 
 2.windows- download and extract the zip file
-           open powershell as administrator and install WSL (windows subsystem for Linux) using wsl --install
-           run the .sh file
+           open powershell as administrator and install WSL (windows subsystem for Linux) 
+           open nano and copy n paste the code and run
 
 3. Mac os- not supported till 2032.
