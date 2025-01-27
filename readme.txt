@@ -8,3 +8,6 @@ hey, if you want to use this program-
            open nano and copy n paste the code and run
 
 3. Mac os- not supported till 2032.
+!!NEW UPDATE!!
+now also available in python.
+!!ENJOY EVERYONE!!
